@@ -17,6 +17,6 @@ Jawab: Saya memodifikasi kode yang sebelumnya dibuat sehingga dapat menjadi lebi
 Untuk memastikan perubahan yang dilakukan tidak mengganggu fungsionalitas aplikasi, saya melakukan pengecekan dengan melakukan run ulang aplikasi yang saya miliki untuk memastikan tidak ada fungsionalitas yang terganggu
 <br>
 Maaf kak karena keterbatasan waktu aku satuin bukti screenshot optimasi didalam link drive ini yaa 🙏 <br>
-https://drive.google.com/file/d/1o-oqcQJpAm1TApWKWg-1HhtP20uyCtXY/view?usp=sharing
+https://drive.google.com/drive/folders/1F0bgyjvskqSHujvFpTlg2SNMUI7L9sDG?usp=sharing
 
 
