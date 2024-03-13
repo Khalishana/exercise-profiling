@@ -16,7 +16,6 @@ Jawab: Untuk mengatasi kendala tersebut, saya mencoba menjalankan kembali testin
 Jawab: Saya memodifikasi kode yang sebelumnya dibuat sehingga dapat menjadi lebih konsisten.  Modifikasi kode ini saya lakukan pada beberapa method yang terdapat pada file StudentService.java sehingga method-method tersebut dapat berfungsi dengan lebih optimal.
 Untuk memastikan perubahan yang dilakukan tidak mengganggu fungsionalitas aplikasi, saya melakukan pengecekan dengan melakukan run ulang aplikasi yang saya miliki untuk memastikan tidak ada fungsionalitas yang terganggu
 <br>
-<br>
-- all-student-name request (before) <br>
-![STUDENT_NAME_BFR](https://github.com/Khalishana/shopping_list/assets/124903903/51c015bd-f5d4-4dae-a1f2-57f39627a3b8)
+Maaf kak karena keterbatasan waktu aku satuin bukti screenshot optimasi didalam link drive ini yaa 🙏 <br>
+[BUKTI SCREENSHOOT OPTIMASI](https://drive.google.com/file/d/1o-oqcQJpAm1TApWKWg-1HhtP20uyCtXY/view?usp=sharing)
 
