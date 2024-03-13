@@ -28,7 +28,7 @@ public class StudentService {
     }
 
     public Optional<Student> findStudentWithHighestGpa() {
-        return studentRepository.findTopStudent();
+        return studentRepository.findTopByGpa();
     }
 
     public String joinStudentNames() {
